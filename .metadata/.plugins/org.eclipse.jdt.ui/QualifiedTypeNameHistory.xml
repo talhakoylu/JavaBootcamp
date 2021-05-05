@@ -13,4 +13,17 @@
     <fullyQualifiedTypeName name="interfaces.DatabaseLogger"/>
     <fullyQualifiedTypeName name="interfaces.FileLogger"/>
     <fullyQualifiedTypeName name="jdk.internal.logger.LazyLoggers"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Interfaces.GameService"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Interfaces.CampaignService"/>
+    <fullyQualifiedTypeName name="java.awt.peer.CheckboxMenuItemPeer"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Interfaces.CheckIfRealPersonService"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Entities.Player"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Concrete.CheckIfRealPersonManager"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Concrete.PlayerManager"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Entities.Game"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Concrete.GameManager"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Interfaces.GameSaleService"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Concrete.GameSaleManager"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Entities.Campaign"/>
+    <fullyQualifiedTypeName name="w4GameBackend.Concrete.CampaignManager"/>
 </qualifiedTypeNameHistroy>
