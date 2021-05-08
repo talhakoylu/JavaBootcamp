@@ -2,4 +2,5 @@
 <dirs>
     <entry loc="/usr/lib/jvm/java-16-openjdk-16.0.0.0.36-1.rolling.fc34.x86_64" stamp="1619441770101"/>
     <entry loc="/usr/lib/jvm/java-16-openjdk-16.0.1.0.9-1.rolling.fc34.x86_64" stamp="1620049767461"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1620483495700"/>
 </dirs>
